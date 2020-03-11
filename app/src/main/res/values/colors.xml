@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="color_black_print">#212121</color>
+    <color name="color_do_hong">#E7167A</color>
+    <color name="color_text_time">#989898</color>
+    <color name="color_shape">#E7167A</color>
+    <color name="color_view">#D4D4D4</color>
+    <color name="color_text_int">#777777</color>
+    <color name="color_text_tien_ich">#ABABAB</color>
+    <color name="tintColorPrimary">#2077E0</color>
+    <color name="tintColorDisable">#70191a45</color>
+    <color name="color_text_black">#4F4F4F</color>
+    <color name="color_white">#FFFFFF</color>
+
+</resources>

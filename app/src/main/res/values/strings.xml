@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">news_project</string>
+    <string name="nav_drawer_open">navigation drawer open</string>
+    <string name="nav_drawer_close">navigation drawer close</string>
+    <string name="category_empty">Category empty</string>
+</resources>
