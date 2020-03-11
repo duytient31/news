@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/tin_noi_bat" android:title="Tin Nổi Bật"/>
+    <item android:id="@+id/phap_luat" android:title="Pháp Luật"/>
+    <item android:id="@+id/the_gioi" android:title="Thế giới"/>
+    <item android:id="@+id/the_thao" android:title="Thể Thao"/>
+    <item android:id="@+id/xa_hoi" android:title="Xã Hội"/>
+    <item android:id="@+id/van_hoa" android:title="Văn Hoá"/>
+    <item android:id="@+id/kinh_te" android:title="Kinh Tế"/>
+    <item android:id="@+id/cong_nghe" android:title="Công Nghệ"/>
+    <item android:id="@+id/giai_tri" android:title="Giải Trí"/>
+    <item android:id="@+id/giao_duc" android:title="Giáo Dục"/>
+    <item android:id="@+id/suc_khoe" android:title="Sức Khoẻ"/>
+    <item android:id="@+id/nha_dat" android:title="Nhà Đất"/>
+    <item android:id="@+id/xe_co" android:title="Xe Cộ"/>
+</menu>
